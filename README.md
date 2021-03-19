@@ -1,3 +1,17 @@
+<h1> See Live </h1>
+ <h2>React+TypeScript+Redux+Api-Integration </h2>
+
+
+<h1> https://virenv496.github.io/typescript/</h1>
+
+
+
+
+
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
